@@ -1,0 +1,6 @@
+{
+  "name": "Personalized Storyboard Generator",
+  "description": "An application to convert text-based scripts or scene descriptions into sequential visual storyboards using AI image generation, focusing on character consistency and art style customization for creative professionals.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
